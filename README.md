@@ -1,6 +1,11 @@
 # About Review 
 ## movie review sentiment classification
-
+in this , accuracy means mean of accuracy  
+- [x] model0 : 임베딩층 + conv + lstm (epochs=5, accuracy=85 arround)
+- [x] model1 : pre-trained word2vec embedding (epochs=5,accuracy=79)
+- [ ] model2 : using handmade w2v 
+- [ ] doc2vec 
+- [ ] (using attension layer)
 # pre-trained kroean word2vec
 You can get that from [here](https://github.com/Kyubyong/wordvectors)
 # Data Description
