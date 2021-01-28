@@ -1,5 +1,6 @@
 kow2v/
 raw/
+logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
